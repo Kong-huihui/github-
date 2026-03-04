@@ -103,7 +103,7 @@ git commit -m "Update README format: add training logs"
 
 ### 4. 推送到远程 (Push)
 ```bash
-git push
+git push -u origin main
 ```
 *注意：第一次用了 `-u origin main` 后，以后只需要输入 `git push` 即可。*
 
